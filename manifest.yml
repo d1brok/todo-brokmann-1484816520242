@@ -3,8 +3,8 @@ applications:
   memory: 128M
   instances: 1
   domain: mybluemix.net
-  name: todo-brokmann
-  host: todo-brokmann
+  name: todo-brokmann-new
+  host: todo-brokmann-new
   disk_quota: 1024M
   services:
   - todo-couch-db
